@@ -1,1 +1,0 @@
-  console.log(N**3);
